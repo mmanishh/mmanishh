@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/pratishshr/pratishshr/master/developer.svg" width="250px" align="left" />
 
-###  Hi There 👋! Manish here. <img src="https://raw.githubusercontent.com/pratishshr/pratishshr/master/hi.gif" width="30px" />
+###  Hi There ! Manish here. <img src="https://raw.githubusercontent.com/pratishshr/pratishshr/master/hi.gif" width="30px" />
 
-:computer:  I'm a Software Engineer
-:wrench: Current Tools: Javascript, Vue, Node.js, Docker, AWS
+- :computer:  I'm a Software Engineer
+- :wrench: Current Tools: Javascript, Vue, Node.js, Docker, AWS
 
 ### Find me on:
 
