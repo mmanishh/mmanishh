@@ -1,4 +1,14 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/pratishshr/pratishshr/master/developer.svg" width="250px" align="left" />
+
+###  Hi There 👋! Manish here. <img src="https://raw.githubusercontent.com/pratishshr/pratishshr/master/hi.gif" width="30px" />
+
+:computer:  I'm a Software Engineer
+:wrench: Current Tools: Javascript, Vue, Node.js, Docker, AWS
+
+### Find me on:
+
+<a href="https://www.instagram.com/manishm.xyz" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/733/733614.svg" alt="Instagram" width="30"></a>
+<a href="https://www.linkedin.com/in/manishnp/" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384014.svg" alt="LinkedIn" width="30"></a>
 
 <!--
 **mmanishh/mmanishh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
